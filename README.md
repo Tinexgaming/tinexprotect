@@ -1,0 +1,2 @@
+# tinexprotect
+Bot anti raid
