@@ -458,7 +458,7 @@ if(message.content.startsWith(prefix + "stop")) {
 
         } else {
 
-            message.channel.send(":x: Erreur, réessayer plus tard !")
+            message.channel.send(":x: Vous n'êtes pas l'owner du bot!")
 
         }
 
