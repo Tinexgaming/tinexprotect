@@ -444,7 +444,7 @@ if(message.content.startsWith(prefix + "say")){
 
 if(message.content.startsWith(prefix + "stop")) {
 
-    if(message.author.id == "373787147120934912") {
+    if(message.author.id == "482090176361791491") {
 
         message.channel.send(":gear: *Arrêt en cours...*").then(() => {
 
