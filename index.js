@@ -136,7 +136,7 @@ if(message.content === prefix + "help") {
 
         .addField(":warning: Warn",">warn")
 
-        .addField("Question", "Pour toute question merci de mp mon développeur Carambar#1295")
+        .addField("Question", "**Pour toute question merci de mp mon développeur Carambar#1295**")
 
         .addField("Support","Bientot")
 
@@ -170,7 +170,7 @@ if(message.content === prefix + "help") {
 
         .addField(":door: Kick", "``/kick``")
 
-        .addField("Question", "**Pour toute question merci de mp mon développeur _ClesiriusPE_ 『🎃』#1421**")
+        .addField("Question", "**Pour toute question merci de mp mon développeur Carambar#1295**")
 
         .addField("Support","Bientôt")
 
@@ -202,11 +202,12 @@ if(message.content === prefix + "help") {
 
         .addField(":confetti_ball: Fun", "``/vcs`` ``8ball`` ``/say``")
 
-        .addField("Question", "**Pour toute question merci de mp mon développeur _ClesiriusPE_ 『🎃』#1421**")
+        .addField("Question", "**Pour toute question merci de mp mon développeur Carambar#1295 **")
 
-        .addField("Support","https://discord.gg/JdQwkNN")
+        .addField("Support","Bientôt")
 
-        .addField("Invitation","https://discordapp.com/api/oauth2/authorize?client_id=501488481164460032&permissions=8&scope=bot")
+        .addField("Invitation","Bientôt ")
+=bot")
 
         .setFooter("TinexSecurity®『🚫』")
 
