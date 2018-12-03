@@ -91,7 +91,7 @@ bot.on('message', message => {
   }
 
 if(message.content === prefix + "help") {
-message.delete(message.author);
+
 
 
         var help_embed = new Discord.RichEmbed()
@@ -127,7 +127,7 @@ message.delete(message.author);
  
 
  if(message.content === prefix + "help.mod") {
-message.delete(message.author);
+
         var mod_embed = new Discord.RichEmbed()
 
         .setColor("#39F400")
@@ -161,7 +161,7 @@ message.delete(message.author);
      
 
  if(message.content === prefix + "help.admin") {
-message.delete(message.author);
+
         var adm_embed = new Discord.RichEmbed()
 
         .setColor("#EC0066")
@@ -195,7 +195,7 @@ message.delete(message.author);
   
 
       if(message.content === prefix + "help.fun") {
-message.delete(message.author);
+
         var fun_embed = new Discord.RichEmbed()
 
         .setColor("#00E9CA")
